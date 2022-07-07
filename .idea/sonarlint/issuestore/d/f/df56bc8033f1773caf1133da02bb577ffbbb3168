@@ -1,0 +1,9 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Š“ñl
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(àÔöŞ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(àÔöŞ
+_
+java:S1172"=Remove these unused method parameters "i", "i1", "f", "rojo".(‰Âú‚ûÿÿÿÿ8êÆ¦œ0
+W
+java:S1161+":Add the "@Override" annotation above this method signature(ó‘ä¸8Ìµ‡©0

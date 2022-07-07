@@ -1,0 +1,19 @@
+
+i
+java:S1192"NUse already-defined constant 'colorDEF' instead of duplicating its value here.(ÕÇëŠúÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Š“ñl
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(æ­ÿ÷şÿÿÿÿ
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¢Ş¢ûÿÿÿÿ
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ş³İ
+n	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¤Âl
+@
+java:S1197"*Move the array designators [] to the type.(¢éÆß
+E
+java:S1197"*Move the array designators [] to the type.(ÕÇëŠúÿÿÿÿ
+7
+java:S1116K"Remove this empty statement.(ÙÁ½¼ÿÿÿÿÿ
+7	java:S131d""Add a default case to this switch.(¡ùÉà
+Z
+java:S1144H"?Remove this unused private "comprobarConsumoEnergetico" method.(óÿ­¯ÿÿÿÿÿ
+H
+java:S1144R"3Remove this unused private "comprobarColor" method.(«îÃ

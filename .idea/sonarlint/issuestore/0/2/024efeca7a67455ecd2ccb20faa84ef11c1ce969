@@ -1,0 +1,15 @@
+
+r	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³œÇÇúÿÿÿÿ8Ÿ—¬œ0
+r	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µşïøıÿÿÿÿ8 —¬œ0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹€ºÚ
+@
+java:S1197"*Move the array designators [] to the type.(‚é’
+E
+java:S1197
+"*Move the array designators [] to the type.(ãÒŒ½ÿÿÿÿÿ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(äñô­
+X	java:S1251"<This block of commented-out lines of code should be removed.(‡¹µ¹8Ìæ«œ0
+Z	java:S106B"9Replace this use of System.out or System.err by a logger.(ÁÚÖ´ùÿÿÿÿ8È™ä«œ0
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(Úôù8Òşø«œ0
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8¤»ú«œ0

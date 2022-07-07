@@ -1,0 +1,22 @@
+
+k	java:S1179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¹¿éúÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²õØ·
+h	java:S116
+"NRename this field "DNI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èüöšýÿÿÿÿ
+b
+java:S1845"LRename field "SEXO" to prevent any misunderstanding/clash with field "sexo".(Ö‹¹í
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(±¹Ùó
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ö‹¹í
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÿÈ¼éüÿÿÿÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(É†–“
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ìÅÃý
+W
+java:S1126E"AReplace this if-then-else statement by a single return statement.(ÀíÑý
+B
+java:S1068
+"'Remove this unused "DNI" private field.(èüöšýÿÿÿÿ
